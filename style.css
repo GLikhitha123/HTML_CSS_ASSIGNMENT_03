@@ -10,22 +10,130 @@
     height: 100vh;
 }
 .image{
-    width: 15cm;
     background: url(likhitha.jpg);
-    background-position: left;
-    background-size: 60vh;
-    height: 20cm;
-    top: 50px;
+    background-position: 20px;
+    background-size: 70vh;
+    width: 20cm;
+    height: 100%;
+    margin-right: 110px; 
+    margin-bottom: 100px;
+    border-radius: 15px;
     background-repeat: no-repeat;
+    padding-left: 120px;
+    padding-top: 10px;
 }
-.content  h1{
-    padding-left: 20px;
-    padding-bottom: 100px;
-    font-family: 'Times New Roman';
-    color: rgb(236, 239, 243);
+.content{
+    width: 1500px;
+    height: 17cms;
+    margin: 35px;
+    color: #fff;
+    position: center;
+    margin-left: 700px;
+    margin-top: -600px;
+    margin-right: 70px;
+
 }
 .content par{
-    position: center;
-    margin-left: 40px;
+    padding-right: 300px;
+    padding-bottom: 50px;
+    font-family: Arial;
+    letter-spacing: 1.6px;
+    line-height: 30px;
+    margin-right: 20px;
 
+}
+.content h1{
+    font-family: 'Times New Roman';
+    font-size: 40px;
+    padding-left: 5px;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+}
+.content span{
+    color: #ff7200;
+    font-size: 38px;
+}
+.content .btnn{
+    width: 200px;
+    height: 30px;
+    border: 2px solid #ff7200;
+    border-radius: 20px;
+    background: black;
+    margin-top: 20px;
+}
+.content .btnn a{
+    color: #fff;
+
+
+}
+.content .btnn{
+    width: 240px;
+    height: 50px;
+    border: 2px solid #ff7200;
+    border-radius: 20px;
+    background: black;
+    margin-top: 5vh;
+    
+    
+}
+.content .btnn {
+    color: #fff;
+}
+
+.content .orange-color{
+    color: #ff7200;
+    
+}
+.navbar{
+    height: 10%;
+    width: 3%;
+    background: rgb(13, 13, 13);
+    position: right;
+    margin-left: 1470px;
+    margin-top: -510px
+}
+.fa-lightbulb{
+    color: white;
+    margin-left: 20px;
+    margin-top: 15px;
+    height: 20px;
+    width: 60px;
+    font-size: 30px;
+    
+
+}
+.fa-house-chimney{
+    color: white;
+    margin-left: 18px;
+    margin-top:150px;
+    width: 40px;
+    height: 20px;
+    font-size: 25px;
+}
+.fa-user{
+    color: white;
+    margin-left: 20px;
+    margin-top: 35px;
+    font-size: 25px;
+}
+.fa-briefcase{
+    color: white;
+    margin-left: 20px;
+    margin-top: 30px;
+    font-size: 25px;
+}
+.fa-envelope-open{
+    color: white;
+    margin-left: 20px;
+    margin-top: 25px;
+    font-size: 25px;
+}
+.fa-comments{
+    color: white;
+    margin-left: 20px;
+    margin-top: 35px;
+    font-size: 20px;
+}
+.navbar :hover{
+    color:#ff7200
 }
