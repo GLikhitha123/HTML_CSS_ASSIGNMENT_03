@@ -9,8 +9,23 @@
     background-size: cover;
     height: 100vh;
 }
-.navbar{
-    width: 1200px;
-    height: 75px;
-    margin: auto;
+.image{
+    width: 15cm;
+    background: url(likhitha.jpg);
+    background-position: left;
+    background-size: 60vh;
+    height: 20cm;
+    top: 50px;
+    background-repeat: no-repeat;
+}
+.content  h1{
+    padding-left: 20px;
+    padding-bottom: 100px;
+    font-family: 'Times New Roman';
+    color: rgb(236, 239, 243);
+}
+.content par{
+    position: center;
+    margin-left: 40px;
+
 }
